@@ -17,8 +17,7 @@
 ### 🚀 Currently Working On:
 
 - 🌐 Learning **React** and refining **CSS** skills  
-- 📚 Integrating APIs into personal projects  
-- 💻 Contributing to **open-source** projects
+- 📚 Managing my time 
 
 ---
 
