@@ -17,7 +17,9 @@
 ### 🚀 Currently Working On:
 
 - 🌐 Learning **React** and refining **CSS** skills  
-- 📚 Managing my time 
+- 📚 Managing my time
+- 👁️ working on a anti cheat
+- 👾 gaining experience
 
 ---
 
