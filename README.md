@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #FF6347;">Hello, I'm Covri</h1>
-<h3 align="center" style="color: #20B2AA;">A passionate frontend developer with expertise in Java development ☕</h3>
+<h3 align="center" style="color: #20B2AA;">A passionate junior developer with expertise in Java development ☕</h3>
 
 ---
 
