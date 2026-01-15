@@ -56,7 +56,7 @@
 
 - **Email**: [zent81039@gmail.com](mailto:zent81039@gmail.com)  
 - **GitHub**: [@Covrico](https://github.com/covrico)
-- **Discord** [@ruvlek]
+- **Discord** [@wboog]
 ---
 
 ### ⚡ Fun Facts:
