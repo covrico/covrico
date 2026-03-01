@@ -5,20 +5,19 @@
 
 ### About Me:
 
-- **Username**: Covri  
-- **Currently**: Learning **CSS** and enhancing my web development skills  
+- **Username**: yaluv
+- **Currently**: Learning **CSS** and enhancing my HTML skills  
 - **Main languages**: Java, Python, and starting with JavaScript  
 - **Interests**: Minecraft server development, building websites, and exploring new technologies  
-- **Timezone**: GMT+3  
+- **Timezone**: EST+3  
 - **Reach out to me**: [zent81039@gmail.com](mailto:zent81039@gmail.com)
 
 ---
 
 ### 🚀 Currently Working On:
 
-- 🌐 Learning **React** and refining **CSS** skills  
+- 🌐 Learning **React**  
 - 📚 Managing my time
-- 👁️ working on a anti cheat
 - 👾 gaining experience
 
 ---
@@ -47,8 +46,7 @@
 
 ### 🌟 My Coding Philosophy:
 
-> *“Write code as if the person who ends up maintaining it is a violent psychopath who knows where you live.”*  
-> (At least, I try to keep it clean and organized, okay?)
+> *“Write code as if the person who ends up maintaining it is a violent psychopath who knows where you live.”*
 
 ---
 
@@ -56,15 +54,7 @@
 
 - **Email**: [zent81039@gmail.com](mailto:zent81039@gmail.com)  
 - **GitHub**: [@Covrico](https://github.com/covrico)
-- **Discord** [@_wbog]
----
-
-### ⚡ Fun Facts:
-
-- I'm obsessed with **Minecraft**.
-- Learning **CSS** felt like trying to tame a wild beast, but now I’m loving it!  
-- I often work late into the night, fueled by caffeine and curiosity. ☕️
-
+- **Discord** [@yarluv]
 ---
 
 Feel free to reach out for collaboration, project feedback, or just to chat about anything tech!
