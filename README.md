@@ -8,21 +8,21 @@
 - **Username**: yaluv
 - **Currently**: Learning **CSS** and enhancing my HTML skills  
 - **Main languages**: Java, Python, and starting with JavaScript  
-- **Interests**: Minecraft server development, building websites, and exploring new technologies  
+- **Interests**: Minecraft server development, building websites
 - **Timezone**: EST+3  
-- **Reach out to me**: [zent81039@gmail.com](mailto:zent81039@gmail.com)
+- **Reach out to me**: [EMAIL](mailto:zent81039@gmail.com)
 
 ---
 
-### 🚀 Currently Working On:
+### Currently Working On:
 
-- 🌐 Learning **React**  
-- 📚 Managing my time
-- 👾 gaining experience
+- Learning **React**  
+- Managing my time
+- gaining experience
 
 ---
 
-### 🌈 Skills & Tools:
+###  Skills & Tools:
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -34,19 +34,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  </a>
 </p>
-
----
-
-### 🌟 My Coding Philosophy:
-
-> *“Write code as if the person who ends up maintaining it is a violent psychopath who knows where you live.”*
 
 ---
 
@@ -57,4 +45,3 @@
 - **Discord** [@yarluv]
 ---
 
-Feel free to reach out for collaboration, project feedback, or just to chat about anything tech!
