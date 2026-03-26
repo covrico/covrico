@@ -1,11 +1,8 @@
-<h1 align="center" style="color: #FF6347;">Hello, I'm Covri</h1>
-<h3 align="center" style="color: #20B2AA;">A passionate junior developer with expertise in Java development ☕</h3>
-
----
+<h1 align="center" style="color: #FF6347;">Hello, I'm Maldeth/Moldeth!</h1>
 
 ### About Me:
 
-- **Username**: yaluv
+- **Username**: moldeth
 - **Currently**: Learning **CSS** and enhancing my HTML skills  
 - **Main languages**: Java, Python, and starting with JavaScript  
 - **Interests**: Minecraft server development, building websites
@@ -42,6 +39,6 @@
 
 - **Email**: [zent81039@gmail.com](mailto:zent81039@gmail.com)  
 - **GitHub**: [@Covrico](https://github.com/covrico)
-- **Discord** [@yarluv]
+- **Discord** [@themoldeth]
 ---
 
