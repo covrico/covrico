@@ -6,7 +6,7 @@
 - **Currently**: Learning **CSS** and enhancing my HTML skills  
 - **Main languages**: Java, Python, and starting with JavaScript  
 - **Interests**: Minecraft server development, building websites
-- **Timezone**: ECT+3  
+- **Timezone**: UCT+3  
 - **Reach out to me**: [EMAIL](mailto:zent81039@gmail.com)
 
 ---
